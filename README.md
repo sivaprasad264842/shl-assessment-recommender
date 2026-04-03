@@ -1,0 +1,1 @@
+GenAI-based assessment recommendation engine that uses semantic embeddings and cosine similarity to retrieve relevant SHL assessments from a structured catalog. Built with FastAPI for scalable API access and includes evaluation using Recall@10 along with a full-stack interface for end-to-end testing
